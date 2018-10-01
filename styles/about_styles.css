@@ -1011,13 +1011,14 @@ section
 }
 
 /*********************************
-10. Footer
+12. Footer
 *********************************/
 
 .footer
 {
 	padding-top: 99px;
 	padding-bottom: 82px;
+	background: #28262d !important;
 }
 .footer_logo
 {
@@ -1026,7 +1027,7 @@ section
 }
 .footer_logo a
 {
-	color: #452b78;
+	color: #ffffff;
 	line-height: 1;
 }
 .footer_intro p
@@ -1058,7 +1059,7 @@ section
 }
 .footer_social ul li a:hover i
 {
-	color: #1b0d37;
+	color: #eceaf1;
 }
 .footer_cr
 {
@@ -1087,7 +1088,7 @@ section
 {
 	font-size: 18px;
 	font-weight: 500;
-	color: #28262d;
+	color: #e6e0f5;
 	margin-bottom: 9px;
 }
 .footer_col ul li
@@ -1107,5 +1108,5 @@ section
 }
 .footer_col ul li a:hover
 {
-	color: #28262d;
+	color: #ffffff;
 }
